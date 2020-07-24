@@ -710,10 +710,75 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
-.cid-s5iRFIEhoA {
-  padding-top: 135px;
-  padding-bottom: 135px;
-  background-image: url("../../../assets/images/42230872-happy-delivery-man-with-trolley-of-boxes-running-on-white-background-against-cloudy-sky-1300x866.jpeg");
+.cid-s5Cb5xOeAt {
+  padding-top: 120px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/42226955-delivery-man-with-trolley-of-boxes-running-against-orange-and-blue-sky-with-clouds-5-1300x866.jpeg");
+}
+.cid-s5Cb5xOeAt .mbr-overlay {
+  background: linear-gradient(90deg, #ff9e33, #ff9e33);
+}
+.cid-s5Cb5xOeAt .mbr-section-btn {
+  margin-left: -0.8rem;
+}
+.cid-s5Cb5xOeAt .text-content {
+  padding-right: 1.5rem;
+}
+.cid-s5Cb5xOeAt .mbr-text,
+.cid-s5Cb5xOeAt .mbr-section-btn {
+  color: #767676;
+}
+.cid-s5Cb5xOeAt .mbr-figure img {
+  -webkit-box-shadow: 0px 0px 30px rgba(120, 120, 120, 0.3);
+  box-shadow: 0px 0px 30px rgba(120, 120, 120, 0.3);
+  border-radius: .25rem;
+}
+.cid-s5Cb5xOeAt .counter-container {
+  padding: 1rem 0;
+  position: relative;
+}
+.cid-s5Cb5xOeAt .counter-container ul {
+  margin-bottom: 0;
+  padding-left: 1.5rem;
+}
+.cid-s5Cb5xOeAt .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
+}
+.cid-s5Cb5xOeAt .counter-container ul li:before {
+  font-family: MobiriseIcons !important;
+  content: '\e966';
+  position: absolute;
+  left: 0px;
+  padding-top: 2px;
+  display: inline-block;
+  text-align: center;
+  margin: 4px 0px;
+  line-height: 10px;
+  transition: all .2s;
+  width: 16px;
+  height: 16px;
+  font-size: 16px !important;
+  font-weight: 500;
+  background: none;
+  color: #188ef4;
+}
+@media (max-width: 991px) {
+  .cid-s5Cb5xOeAt .main-row {
+    margin: 0;
+  }
+  .cid-s5Cb5xOeAt .mbr-section-title,
+  .cid-s5Cb5xOeAt .mbr-text,
+  .cid-s5Cb5xOeAt .list,
+  .cid-s5Cb5xOeAt .mbr-section-btn {
+    text-align: center !important;
+  }
+  .cid-s5Cb5xOeAt .text-content {
+    padding: 0;
+  }
+}
+.cid-s5Cb5xOeAt .mbr-section-title {
+  color: #260448;
 }
 .cid-s5C1mRJdPK {
   background-color: #210240;
@@ -1177,6 +1242,74 @@ section.lazy-placeholder:after {
 .cid-s5BEzwE82e .mbr-text {
   color: #767676;
 }
+.cid-s5jEk5birw {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #210240;
+}
+@media (max-width: 767px) {
+  .cid-s5jEk5birw .content {
+    text-align: center;
+  }
+  .cid-s5jEk5birw .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-s5jEk5birw .media-wrap {
+    margin-bottom: 1rem;
+  }
+}
+.cid-s5jEk5birw .media-wrap .mbr-iconfont-logo {
+  font-size: 7.5rem;
+  color: #f36;
+}
+.cid-s5jEk5birw .media-wrap img {
+  height: 6rem;
+}
+@media (max-width: 767px) {
+  .cid-s5jEk5birw .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-s5jEk5birw .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-s5jEk5birw .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: flex-end;
+  justify-content: flex-end;
+}
+.cid-s5jEk5birw .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-s5jEk5birw .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-s5jEk5birw .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-s5jEk5birw .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-s5jEk5birw .footer-lower .social-list {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+}
 .cid-s5BKD4YnKN {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -1268,71 +1401,8 @@ section.lazy-placeholder:after {
   font-size: 1.5rem;
   order: 2;
 }
-.cid-s5jEk5birw {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #210240;
-}
-@media (max-width: 767px) {
-  .cid-s5jEk5birw .content {
-    text-align: center;
-  }
-  .cid-s5jEk5birw .content > div:not(:last-child) {
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-s5jEk5birw .media-wrap {
-    margin-bottom: 1rem;
-  }
-}
-.cid-s5jEk5birw .media-wrap .mbr-iconfont-logo {
-  font-size: 7.5rem;
-  color: #f36;
-}
-.cid-s5jEk5birw .media-wrap img {
-  height: 6rem;
-}
-@media (max-width: 767px) {
-  .cid-s5jEk5birw .footer-lower .copyright {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
-}
-.cid-s5jEk5birw .footer-lower hr {
-  margin: 1rem 0;
-  border-color: #fff;
-  opacity: .05;
-}
-.cid-s5jEk5birw .footer-lower .social-list {
-  padding-left: 0;
-  margin-bottom: 0;
-  list-style: none;
-  display: flex;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
-}
-.cid-s5jEk5birw .footer-lower .social-list .mbr-iconfont-social {
-  font-size: 1.3rem;
-  color: #fff;
-}
-.cid-s5jEk5birw .footer-lower .social-list .soc-item {
-  margin: 0 .5rem;
-}
-.cid-s5jEk5birw .footer-lower .social-list a {
-  margin: 0;
-  opacity: .5;
-  -webkit-transition: .2s linear;
-  transition: .2s linear;
-}
-.cid-s5jEk5birw .footer-lower .social-list a:hover {
-  opacity: 1;
-}
-@media (max-width: 767px) {
-  .cid-s5jEk5birw .footer-lower .social-list {
-    -webkit-justify-content: center;
-    justify-content: center;
-  }
+.cid-s5iRFIEhoA {
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-image: url("../../../assets/images/42230872-happy-delivery-man-with-trolley-of-boxes-running-on-white-background-against-cloudy-sky-1300x866.jpeg");
 }

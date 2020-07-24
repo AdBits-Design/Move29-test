@@ -779,6 +779,10 @@ section.lazy-placeholder:after {
 }
 .cid-s5Cb5xOeAt .mbr-section-title {
   color: #260448;
+  text-align: left;
+}
+.cid-s5Cb5xOeAt .mbr-section-title DIV {
+  text-align: left;
 }
 .cid-s5C1mRJdPK {
   background-color: #210240;
